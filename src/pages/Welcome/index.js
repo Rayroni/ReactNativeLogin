@@ -69,7 +69,7 @@ button:{
     paddingVertical:15,
     width:'95%',
     alignSelf:'center',
-    bottom:'32%',
+    bottom:'25%',
     alignItems:"center",
     justifyContent:'center',
     shadowColor:'#1b325f',
@@ -79,11 +79,14 @@ button:{
     
 },
 buttonText:{
-color:'#e7edea'
+color:'#e7edea',
+fontSize:18,
+
 },
 
 buttonTextt:{                                   //Texto Profissioanal
-    color:'#2b9eb3'
+    color:'#2b9eb3',
+    fontSize:18,
     },
 
 buttonn:{                                        //Responsável
@@ -92,7 +95,7 @@ buttonn:{                                        //Responsável
     paddingVertical:15,
     width:'95%',
     alignSelf:'center',
-    bottom:'55%',
+    bottom:'50%',
     alignItems:"center",
     justifyContent:'center',
     position:"absolute",
